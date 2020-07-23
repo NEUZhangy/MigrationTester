@@ -14,5 +14,10 @@
     <artifactId>changedistillerplugin</artifactId>
     <version>0.0.1</version>
 
-    
+    <dependencies>
+
+
+    </dependencies>
+
+
 </project>
